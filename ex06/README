@@ -1,0 +1,11 @@
+
+# READ ME
+## （ex06/snake_game.py）
+### Snake Game
+
+- iam creating Snake Game
+- Window Size (720,480)
+- Add a title (Snake Game)
+- Snake position (100,50)
+- Add fruits for the snake to eat
+- I created a line to write the score
